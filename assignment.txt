@@ -1,4 +1,3 @@
-docker eHands-on Scenario
 Minikube installation
 
 sudo apt install docker.io -y 
